@@ -14,3 +14,37 @@ Repositório referente à disciplina de Engenharia de Software 2, realizado no s
 
 &nbsp;
 # Tecnologias:
+&nbsp;
+•Java
+
+
+&nbsp;
+•Angular
+
+
+&nbsp;
+•SQL
+
+
+&nbsp;
+
+# Tema Do Projeto: Sistema de gerenciamento de estoque de medicamentos baseado no software linx big farma
+&nbsp;
+
+
+## Implementações do projeto:
+&nbsp;
+• Controle de curva de estoque abc
+
+
+
+&nbsp;
+•Remanejamento de mercadorias
+
+
+&nbsp;
+•Interação compras-revendedores (divulgação de folhetos de promoções)
+
+
+&nbsp;
+•Pedido de mercadoria de lojas direto ao setor de compras
