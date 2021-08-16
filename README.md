@@ -15,15 +15,15 @@ Repositório referente à disciplina de Engenharia de Software 2, realizado no s
 &nbsp;
 # Tecnologias:
 &nbsp;
-•Java
+• Java
 
 
 &nbsp;
-•Angular
+• Angular
 
 
 &nbsp;
-•SQL
+• SQL
 
 
 &nbsp;
@@ -39,12 +39,12 @@ Repositório referente à disciplina de Engenharia de Software 2, realizado no s
 
 
 &nbsp;
-•Remanejamento de mercadorias
+• Remanejamento de mercadorias
 
 
 &nbsp;
-•Interação compras-revendedores (divulgação de folhetos de promoções)
+• Interação compras-revendedores (divulgação de folhetos de promoções)
 
 
 &nbsp;
-•Pedido de mercadoria de lojas direto ao setor de compras
+• Pedido de mercadoria de lojas direto ao setor de compras
