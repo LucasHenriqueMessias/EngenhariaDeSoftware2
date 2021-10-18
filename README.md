@@ -15,19 +15,31 @@ Repositório referente à disciplina de Engenharia de Software 2, realizado no s
 &nbsp;
 # Tecnologias:
 &nbsp;
-• Java
+• Spring Boot
 
 
 &nbsp;
-• Angular
+• ReactJS
 
 
 &nbsp;
-• SQL
+• mySQL
 
 
 &nbsp;
+• TypeScript
 
+
+&nbsp;
+•HTML5
+
+
+&nbsp;
+•Bootstrap
+
+
+&nbsp;
+•Postman
 # Tema Do Projeto:
 Sistema de gerenciamento de estoque de medicamentos baseado no software linx big farma
 &nbsp;
