@@ -41,26 +41,22 @@ Repositório referente à disciplina de Engenharia de Software 2, realizado no s
 &nbsp;
 •Postman
 # Tema Do Projeto:
-Sistema de gerenciamento de estoque de medicamentos baseado no software linx big farma
+Sistema de gerenciamento de estoques de medicamentos, entre farmácias e estoque geral
 &nbsp;
 
 
 ## Implementações do projeto:
 &nbsp;
-• Controle de curva de estoque abc
+• Remanejamento de mercadorias entre estoques (objetivo)
 
 
 
 &nbsp;
-• Remanejamento de mercadorias
+• Controle de curvas ABC (organização dos estoques)
 
 
 &nbsp;
-• Interação compras-revendedores (divulgação de folhetos de promoções)
-
-
-&nbsp;
-• Pedido de mercadoria de lojas direto ao setor de compras
+• Pedido de mercadoria de lojas direto ao setor de compras (Pedido de remanejamento)
 
 
 &nbsp;
