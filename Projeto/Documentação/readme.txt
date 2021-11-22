@@ -1,0 +1,1 @@
+Link da documentação do projeto: https://github.com/LucasHenriqueMessias/EngenhariaDeSoftware2/tree/main/DER%20e%20Modelo%20Conceitual
